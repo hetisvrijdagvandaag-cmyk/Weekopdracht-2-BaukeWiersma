@@ -120,4 +120,22 @@ Kijken wat de initial scale doet..
 weer terug naar 1.0
 
 </details>
+
+<details>
+<summary>06-11-2026 11:48:43 (UTC+01:00) | Run | hetisvrijdagvandaag-cmyk | 1 gewijzigde bestanden (+2/−1)</summary>
+
+- **Uitgevoerd door:** hetisvrijdagvandaag-cmyk
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [9ead21167c2a635676d98da53e89cc6480874918](https://github.com/hetisvrijdagvandaag-cmyk/Weekopdracht-2-BaukeWiersma/commit/9ead21167c2a635676d98da53e89cc6480874918)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 2 | 1 |
+
+**Verwachting voor Run**
+
+Foto toegevoegd kijken of het werkt?
+
+</details>
 <!-- arhc-weblab:log:end -->
